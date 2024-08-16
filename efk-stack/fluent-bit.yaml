@@ -11,7 +11,7 @@ spec:
     targetRevision: 0.47.7
     helm:
       valueFiles:
-        - fluentbit-values.yaml 
+        - EFKstack/fluentbit-values.yaml 
   destination:
     server: 'https://kubernetes.default.svc'
     namespace: logging
