@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:AsidoA/demo-crm-chart.git
+    repoURL: git@github.com:AsidoA/Logging-EFK.git
     targetRevision: HEAD
     path: efk-stack
   destination:
